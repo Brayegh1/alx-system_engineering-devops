@@ -1,4 +1,2 @@
 #!/bin/bash
-pwd
-current_directory="/tmp/correction/0276221361966399863950125086930538626914_5/205/317276/0x00-shell_basics"
-pwd
+Current working directory: 
