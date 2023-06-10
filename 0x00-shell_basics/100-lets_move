@@ -1,2 +1,3 @@
 #!/bin/bash
-mv||upper||* /tmp/u
+for file in * do mv "$file" "/tmp/u/$(tr '[:lower:]' '[:upper:]' <<< "$file")" done
+
